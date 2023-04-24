@@ -1,0 +1,26 @@
+.nav_container {
+    width: 100%;
+    padding: 50px 30px;
+    margin: 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav_link__container {
+    width: 40%;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 20px 0px;
+    text-decoration: none;
+}
+
+.nav_link_li {
+    
+    list-style: none;
+}
+
+.nav_link_link {
+    text-decoration: none;
+}
+

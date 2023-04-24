@@ -1,0 +1,10 @@
+.hero__container {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 100%;
+}
+
+.bible_verse__container {
+    width: 300px;
+}

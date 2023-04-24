@@ -1,0 +1,14 @@
+.website__body {
+    margin: 0;
+    padding: 0;
+}
+
+.website__navbar {
+
+    width: 100%;
+   
+}
+
+.website__footer {
+    width: 100vw;
+}

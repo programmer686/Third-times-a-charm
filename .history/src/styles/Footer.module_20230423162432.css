@@ -1,0 +1,14 @@
+.footer_container {
+    background-color: black;
+}
+
+.footer_info__container {
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.footer_logo {
+    font-size: 2rem;
+    text-align: center;
+}

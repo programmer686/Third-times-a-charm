@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,600&family=Overpass:wght@400;500&display=swap');
+
+
+.logo_conteinr, .logo_icre_logo, .logo_icre_fullname {
+    padding: 0;
+    margin: 2px 0;
+}
+
+.logo_icre_logo {
+    font-size: 2rem;
+    font-family: 'Overpass', sans-serif;
+}

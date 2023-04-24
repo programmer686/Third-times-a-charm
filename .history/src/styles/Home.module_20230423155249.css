@@ -1,0 +1,14 @@
+.hero_section2__container {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 25vh;
+}
+
+.bible_verse__container {
+    width: 40%;
+}
+
+.bible_verse__text {
+    line-height: 40px;
+}

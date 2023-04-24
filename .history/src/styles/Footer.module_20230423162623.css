@@ -1,0 +1,23 @@
+.footer_container {
+    background-color: black;
+    margin: 0;
+    padding: 20px 15px;
+}
+
+.footer_info__container {
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.footer_info__box {
+    width: 200px;
+    border-right: 1px solid white;
+    border-left: 1px solid white;
+}
+
+.footer_logo {
+    font-size: 2rem;
+    text-align: center;
+    color: white;
+}

@@ -19,17 +19,15 @@ export default function Home() {
       <section className={styles.overview_section3__container}>
         <div>
           <div className={styles.laters_materials__sermons_container}>
-              <iframe width="280" height="160" src="https://www.youtube.com/embed/EWn4-Ph-K-Q" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>           
+              <iframe width="280" height="160" src="https://www.youtube.com/embed/EWn4-Ph-K-Q" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>
+              <iframe width="280" height="160" src="https://www.youtube.com/embed/dG78ASjjADE" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>
+              <iframe width="280" height="160" src="https://www.youtube.com/embed/k96ks8sA8cg" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>
           </div>
           <div className={styles.laters_materials__sermons_container}>
               <iframe width="280" height="160" src="https://www.youtube.com/embed/q3MFPLSZ8iA" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>
+              <iframe width="280" height="160" src="https://www.youtube.com/embed/YD2sMwL76bQ" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>
+              <iframe width="280" height="160" src="https://www.youtube.com/embed/P-2PPhfEnMg" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>
           </div>
-        </div>
-        <div className={styles.bulletin__container}>
-          <p className={styles.bulletin__title}>Bulletin</p>
-          <p className={styles.bulletin__event}>Church Service: 10:00 AM CST every Sunday</p>
-          <p className={styles.bulletin__event}>Men's Breakfast: 9:00 AM CST on every first Saturday of the month</p>
-          <p className={styles.bulletin__event}>Youth Group: 7:00 PM CST every second and fourth Friday of the Month</p>
         </div>
       </section>
     </main>

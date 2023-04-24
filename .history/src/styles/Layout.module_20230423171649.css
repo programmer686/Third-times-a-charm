@@ -1,0 +1,13 @@
+.website__body {
+    margin: 0;
+    padding: 0;
+}
+
+.website__navbar {
+    position: absolute;
+    width: 100%;
+}
+
+.website__footer {
+    width: 100%;
+}

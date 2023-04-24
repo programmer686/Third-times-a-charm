@@ -25,12 +25,6 @@ export default function Home() {
               <iframe width="280" height="160" src="https://www.youtube.com/embed/q3MFPLSZ8iA" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>
           </div>
         </div>
-        <div className={styles.bulletin__container}>
-          <p className={styles.bulletin__title}>Bulletin</p>
-          <p className={styles.bulletin__event}>Church Service: 10:00 AM CST every Sunday</p>
-          <p className={styles.bulletin__event}>Men's Breakfast: 9:00 AM CST on every first Saturday of the month</p>
-          <p className={styles.bulletin__event}>Youth Group: 7:00 PM CST every second and fourth Friday of the Month</p>
-        </div>
       </section>
     </main>
   )

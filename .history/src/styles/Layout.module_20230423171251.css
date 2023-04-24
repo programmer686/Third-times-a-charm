@@ -1,0 +1,8 @@
+.website__body {
+    margin: 0;
+    padding: 0;
+}
+
+.website__navbar {
+    position: absolute;
+}
