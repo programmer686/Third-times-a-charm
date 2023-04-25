@@ -16,7 +16,7 @@ export default function Footer() {
                 <div className={styles.footer_info__box}>
                     <p className={styles.footer_info__text}>
                         <strong><u>Como contactarnos:</u></strong><br/>
-                        <a href="malito:info@icre.org.mx" className={styles.footer__email}>info@icre.org.mx</a><br/>
+                        <a href="malito:info@icre.org.mx" class>info@icre.org.mx</a><br/>
                         Tel. 33 2959 1641 <br/>
                     </p>
                 </div>

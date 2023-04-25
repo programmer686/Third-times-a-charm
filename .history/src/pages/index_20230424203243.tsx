@@ -20,6 +20,9 @@ export default function Home() {
       <section className={styles.overview_section3__container}>
         <div>
           <div className={styles.laters_materials__sermons_container}>
+              <iframe width="280" height="160" src="https://www.youtube.com/embed/EWn4-Ph-K-Q" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>           
+          </div>
+          <div className={styles.laters_materials__sermons_container}>
             <Latest_Sermons/>
           </div>
         </div>

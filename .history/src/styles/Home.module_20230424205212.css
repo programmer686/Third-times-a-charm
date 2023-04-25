@@ -8,7 +8,6 @@
     background-position: center;
     display: flex;
     background-repeat: no-repeat;
-    background-size: cover;
     align-items: center;
     justify-content: center;
     text-shadow: 0.5px 0.5px black;
@@ -96,5 +95,5 @@
 }
 
 .latest_material__sub_container {
-    margin: 40px 0px;
+    margin: 20px 0px;
 }

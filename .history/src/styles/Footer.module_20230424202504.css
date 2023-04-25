@@ -63,7 +63,7 @@
     }
 }
 
-.footer__nav_link, .footer__email {
+.footer__nav_link {
     text-decoration: none;
     color: white;
 }

@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;1,100&family=Rubik:wght@300&display=swap');
+
+.latest_sermons__video {
+    border: none;
+    border-radius: 20px;
+    box-shadow: 2px 2px 5px black;
+}
+
+.latest_sermons__title {
+    font-family: 'Lato', sans-serif;
+    font-weight: bolder;
+}

@@ -58,12 +58,5 @@
 
     .footer_info__box {
         width: 60%;
-        margin-bottom: 30px;
-        text-align: center;
     }
-}
-
-.footer__nav_link, .footer__email {
-    text-decoration: none;
-    color: white;
 }

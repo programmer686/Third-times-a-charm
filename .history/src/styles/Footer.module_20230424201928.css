@@ -62,8 +62,3 @@
         text-align: center;
     }
 }
-
-.footer__nav_link, .footer__email {
-    text-decoration: none;
-    color: white;
-}
