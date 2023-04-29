@@ -16,17 +16,13 @@ export default function About() {
         <p>Enfatizamos que la Biblia es la palabra de Dios y nuestra &uacute;nica regla infalible de fe y conducta, la salvaci&oacute;n como un regalo de Dios, a Cristo como el &uacute;nico Redentor del pueblo de Dios, y la fe como &eacute;l &uacute;nico medio para recibir la salvaci&oacute;n de Dios.</p>
         <p>Nuestra visi&oacute;n: Que muchos como nosotros puedan experimentar el regalo de Dios que es la vida eterna, siendo a&ntilde;adidos por Dios a la Iglesia Cristo Rey Eterno, donde sean capacitados para dar gloria a Dios.</p>
         <p>Nuestra misi&oacute;n: Que la gente con las que nos relacionamos pueda ver el amor de Dios en nosotros por medio de nuestras palabras y acciones de misericordia, servicio y compa&ntilde;erismo.</p>  
-        <h1 className={styles.about_us__page_title}>Our Leadership</h1>
       </section>
       <section className={styles.about_us__section3}>
-        <div>
-        <Leader/>
-        <Leader/>
-        </div>
-        <div>
-        <Leader/>
-        <Leader/>
-        </div>
+        <h1 className={styles.about_us__page_title}>Our Leadership</h1>
+            <Leader/>
+            <Leader/>
+            <Leader/>
+            <Leader/>
       </section>     
 
    

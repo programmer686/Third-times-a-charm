@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;1,100&family=Rubik:wght@300&display=swap');
+
+
+.leader__container {
+    width: 100%;
+}
+
+.leader__header_img {
+    width: 400px;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+}
+
+.leader__container .leader__name, .leader__position, .leader__bio {
+    font-family: 'Lato', sans-serif;
+    width: 400px;
+    height: 200px;
+    
+}
+
+.leader__position {
+    color: rgb(95, 95, 95);
+    margin: 5px 0px;
+}
+
+.leader__bio {
+    line-height: 30px;
+    margin: 5px 0px;
+    color: rgb(138, 138, 138);
+}

@@ -49,9 +49,9 @@
 .about_us__section3 {
     width: 100%;
     height: 240vh;
+    border: 1px solid red;
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-evenly;
 }
 
 
